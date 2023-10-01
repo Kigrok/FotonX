@@ -9,7 +9,7 @@
 
 
 <h1 align="center">
-  Taiko <img src="./packages/branding/RGB SVG (For Digital Use)/Taiko Icon/taiko-icon-blk.svg" width="80" alt="Logo for Taiko" />
+  Taiko
 </h1>
 
 ### Functions: 
