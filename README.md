@@ -16,6 +16,7 @@
 - Swap ETH for Tokens
 - Swap Tokens for ETH
 - Get the token balance
+- Adding liquidity (ETH + Token)
 
 ---
 
